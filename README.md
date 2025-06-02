@@ -24,7 +24,9 @@ I'm building a strong foundation in DevOps, learning modern tools and best pract
 
 ---
 
-https://komarev.com/ghpvc/?username=Vikasghandge&color=blue
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Vikasghandge&color=blue)
+---
 
 ## 📫 Connect with Me
 
