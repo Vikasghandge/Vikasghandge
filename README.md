@@ -1,5 +1,5 @@
-# Vikasghandge
-# Hi there 👋 I'm [Your Name]!
+#                                                                  Vikasghandge
+# Hi there 👋 I'm [Vikas Ghandge]!
 
 A passionate DevOps Enthusiast from India. I'm looking for opportunities in the IT sector and sharing what I learn through content online.
 
